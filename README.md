@@ -65,23 +65,16 @@ This project enables automated analysis of tennis match videos:
 - PyTorch (model training)
 - Pandas (statistical data analysis)
 - Matplotlib or cv2 (visualization of statistics and the mini court)
+- Numpay
 
 ---
 
 ## Example Statistics
 
 - Average shot speed for each player.
-- Number of shots per player.
 - Ball speed between every two shots.
 - Player and ball movement visualization on the mini court.
 - Statistical tables for every movement or shot.
 
 ---
 
-## Contributing
-
-Contributions are welcome! You can open Issues or Pull Requests for improvements or bug fixes.
-
-## License
-
-Open-source project for educational and research purposes.
